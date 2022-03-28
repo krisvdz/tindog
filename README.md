@@ -1,2 +1,1 @@
-# tindog
-mais um projetinho
+TinDog Starting Files
